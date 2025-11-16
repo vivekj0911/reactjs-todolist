@@ -29,7 +29,7 @@ A modern, responsive Todo application built with React, Vite, and Material-UI. T
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/vivekj0911/reactjs-todolist.git
 cd todo-app
 ```
 
